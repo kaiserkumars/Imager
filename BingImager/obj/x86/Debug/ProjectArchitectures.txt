@@ -1,0 +1,1 @@
+c:\users\deepak\documents\visual studio 2017\Projects\BingImager\BingImager\BingImager.csproj;x86
